@@ -1,0 +1,29 @@
+{
+    "routes": {
+        "about": "o-nama",
+        "contact": "kontakt"
+    },
+    "nav": {
+        "home": "Naslovnica",
+        "about": "O nama",
+        "contact": "Kontakt"
+    },
+    "pages": {
+        "home": {
+            "title": "Naslovnica",
+            "intro": "Ovo je naslovnica."
+        },
+        "about": {
+            "title": "O nama",
+            "intro": "Ovo je stranica o nama."
+        },
+        "contact": {
+            "title": "Kontakt",
+            "intro": "Ovo je stranica kontakt."
+        },
+        "notFound": {
+            "title": "404! Stranica nije pronađena.",
+            "intro": "Tražena stranica ne postoji."
+        }
+    }
+}

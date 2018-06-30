@@ -1,0 +1,33 @@
+{
+    "routes": {
+        "about": "about",
+        "contact": "contact"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "pages": {
+        "home": {
+            "title": "Home Page",
+            "intro": "This is a home page."
+        },
+        "about": {
+            "title": "About Page",
+            "intro": "This is an about page."
+        },
+        "contact": {
+            "title": "Contact Page",
+            "intro": "This is a contact page."
+        },
+        "notFound": {
+            "title": "404! Not Found.",
+            "intro": "The requested page doesn't exist."
+        }
+    },
+    "string": {
+        "langEn": "EN",
+        "langHr": "HR"
+    }
+}
